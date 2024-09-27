@@ -9,10 +9,8 @@
 COMP 110 - Introduction to Programming and Data Science  
 COMP 210 - Data Structures and Analysis  
 COMP 290 - Essential Tools for Computer Science  
-< Talk about what you have learned in different classes here. No need to be extremely specific, but feel free to include COMP 110, COMP 210 (if you have enrolled), and COMP 290! >
 
 ### Tools and Programming Languages
-Python Java git Docker
 
 
 < Include programming languages you know here! If you would like, since this list may be relatively short (since you are still an underclassmen!), perhaps include some of the things you have worked on in these languages. *Feel free to include git and Docker too!* >
