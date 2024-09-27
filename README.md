@@ -18,11 +18,12 @@ COMP 290 - Essential Tools for Computer Science
 ### Tools and Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,git,docker" />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,git,docker" />
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=java&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python&perline=3)](https://skillicons.dev)
+I have worked on 
 
 <!--
 **wkim1114/wkim1114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
