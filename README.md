@@ -1,7 +1,7 @@
 ## Hi, I'm Will 👋
 
 ## About Me
-🏫 I am a current Junior studying at the University of North Carolina at Chapel Hill majoring in Computer Science.  
+🏫 I am a current Junior studying at the University of North Carolina at Chapel Hill majoring in Economics.  
 
 💻 I am interested in LLM model and Deep Learning algorithms in computer science. I also enjoy learning about game development.  
 
