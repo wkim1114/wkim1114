@@ -25,7 +25,8 @@ COMP 290 - Essential Tools for Computer Science
 [![My Skills](https://skillicons.dev/icons?i=python&perline=3)](https://skillicons.dev)
 I have worked on automated rock-paper-scissor predicting model thorugh python.
 
-<script src="[https://gist.github.com/username/gist-id.js](https://github.com/wkim1114/RPS-Model.git)"></script>
+```markdown
+Check out my [GitHub repository]([https://github.com/username/repository-name](https://github.com/wkim1114/RPS-Model.git)).
 
 <!--
 **wkim1114/wkim1114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
