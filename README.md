@@ -13,6 +13,8 @@ COMP 290
 
 ### Tools and Programming Languages
 Python Java git Docker
+![Python](https://camo.githubusercontent.com/3067cfe1d0424cdbc601ef8472e2e0829ec78c7cf85365494f2c5e4949beabe8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3035313232413f7374796c653d666c6174266c6f676f3d707974686f6e)
+
 < Include programming languages you know here! If you would like, since this list may be relatively short (since you are still an underclassmen!), perhaps include some of the things you have worked on in these languages. *Feel free to include git and Docker too!* >
 
 <!--
