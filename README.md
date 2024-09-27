@@ -22,7 +22,7 @@ COMP 290 - Essential Tools for Computer Science
   </a>
 </p>
 
-< Include programming languages you know here! If you would like, since this list may be relatively short (since you are still an underclassmen!), perhaps include some of the things you have worked on in these languages. *Feel free to include git and Docker too!* >
+[![My Skills](https://skillicons.dev/icons?i=java&perline=3)](https://skillicons.dev)
 
 <!--
 **wkim1114/wkim1114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
