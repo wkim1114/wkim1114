@@ -6,9 +6,9 @@
 ## Skills
 
 ### Classes
-COMP 110 - Introduction to Programming and Data Science;
-COMP 210 - Data Structures and Analysis;
-COMP 290 - Essential Tools for Computer Science;
+COMP 110 - Introduction to Programming and Data Science  
+COMP 210 - Data Structures and Analysis  
+COMP 290 - Essential Tools for Computer Science  
 < Talk about what you have learned in different classes here. No need to be extremely specific, but feel free to include COMP 110, COMP 210 (if you have enrolled), and COMP 290! >
 
 ### Tools and Programming Languages
