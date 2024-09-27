@@ -3,6 +3,9 @@
 ## About Me
 🏫 I am a current Junior studying at the University of North Carolina at Chapel Hill majoring in Computer Science.  
 
+💻 I am interested in LLM model and Deep Learning algorithms in computer science. I also enjoy learning about game development. 
+
+
 
 < Talk a little bit about yourself here! Perhaps include your interests in the field of computer science / software engineering >
 
