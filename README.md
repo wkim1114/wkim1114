@@ -23,7 +23,7 @@ COMP 290 - Essential Tools for Computer Science
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=python&perline=3)](https://skillicons.dev)
-I have worked on 
+I have worked on automated rock-paper-scissor predicting model thorugh python.
 
 <!--
 **wkim1114/wkim1114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
