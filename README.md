@@ -1,6 +1,9 @@
 ## Hi, I'm Will 👋
 
 ## About Me
+🏫 I am a current Junior studying at the University of North Carolina at Chapel Hill majoring in Computer Science.  
+
+
 < Talk a little bit about yourself here! Perhaps include your interests in the field of computer science / software engineering >
 
 ## Skills
