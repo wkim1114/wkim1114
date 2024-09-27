@@ -8,9 +8,6 @@
 🎤 In my free time I enjoy karaoke, listening to music, and reading books.
 
 
-
-< Talk a little bit about yourself here! Perhaps include your interests in the field of computer science / software engineering >
-
 ## Skills
 
 ### Classes
@@ -19,7 +16,11 @@ COMP 210 - Data Structures and Analysis
 COMP 290 - Essential Tools for Computer Science  
 
 ### Tools and Programming Languages
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 < Include programming languages you know here! If you would like, since this list may be relatively short (since you are still an underclassmen!), perhaps include some of the things you have worked on in these languages. *Feel free to include git and Docker too!* >
 
