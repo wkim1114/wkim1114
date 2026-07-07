@@ -2,20 +2,22 @@
 
 Incoming M.Eng. student in **Game Development, Design & Innovation** at Duke University with a background in **Data Science, Statistics, and Operations Research** from UNC Chapel Hill.
 
-I'm interested in building interactive systems and applying data-driven methods to understand, analyze, and improve them. My current interests include:
+I'm interested in understanding how complex systems behave and using data and software to analyze, build, and improve them.
 
 - 🎮 Gameplay systems and game AI
-- 📊 Data analytics and statistical modeling
-- 🗺️ Geospatial and policy analysis
 - 📈 Simulation and decision-making
+- 📊 Data analytics and statistical modeling
 - 🧠 Game economy and player behavior
+- 🗺️ Geospatial and policy analysis
 
 ---
+
+I enjoy projects that combine programming, quantitative analysis, and clear communication to answer real-world questions.
 
 ## Featured Projects
 
 ### 🇰🇷 South Korea Fertility Rebound Analysis
-Spatial and statistical analysis of South Korea's 2025 fertility rebound using government data.
+Independent data analytics project investigating South Korea's 2025 fertility rebound using official government data.
 
 **Highlights**
 - Programmatically collected data from the Korean Statistical Information Service (KOSIS) API
@@ -30,7 +32,7 @@ https://github.com/wkim1114/rok-fertility-rebound-analysis
 
 ### 🎮 Adaptive RPS Agent
 
-Adaptive Rock-Paper-Scissors AI exploring probability-based prediction and heuristic decision making.
+Adaptive game AI exploring opponent modeling, probability-based prediction, and heuristic decision-making.
 
 **Highlights**
 - Rolling-window probability estimation
@@ -39,7 +41,7 @@ Adaptive Rock-Paper-Scissors AI exploring probability-based prediction and heuri
 - Python implementation
 
 Repository:
-https://github.com/wkim1114/RPS-Model
+https://github.com/wkim1114/adaptive-rps-agent
 
 ---
 
@@ -47,12 +49,12 @@ https://github.com/wkim1114/RPS-Model
 
 As I begin graduate study at Duke, I'm working on:
 
-- Unreal Engine
-- C++
-- Gameplay programming
-- Game systems
-- Portfolio development
+- Unreal Engine & C++
+- Gameplay systems
+- Technical portfolio development
+- Game economy simulation
+- Software engineering fundamentals
 
 ---
 
-Thanks for visiting!
+Thanks for stopping by!
