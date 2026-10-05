@@ -1,6 +1,6 @@
 # Hi, I'm Will Kim 👋
 
-M.Eng. student in **Game Development, Design & Innovation** at Duke University with a background in **Data Science, Statistics, and Operations Research** from UNC Chapel Hill.
+M.Eng. student in **Game Development, Design & Innovation** at Duke University with a background in **Data Science, Statistics, and Mathematics** from UNC Chapel Hill.
 
 I'm interested in understanding how complex systems behave and using data and software to analyze, build, and improve them.
 
